@@ -1,0 +1,8 @@
+//Un chico necesita calcular el área y el perímetro de cualquier rectángulo.  Para ello cuenta con el ancho y el alto del mismo. 
+
+var ancho = 0;
+var alto= 0;
+
+ancho = parseFloat(prompt('Ingrese ancho: '));
+alto = parseFloat(prompt('Ingrese alto: '));
+alert('el area es: '+(ancho*alto) +' y el perimetro es: '+ (ancho+alto)*2);
