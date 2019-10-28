@@ -1,0 +1,5 @@
+// Una viajero necesita transformar las distancias de un mapa, se  encuentran en millas y las necesita en kilómetros.  
+
+var milla = 0;
+milla = parseInt(prompt('Ingrese millas: '));
+alert(milla +' millas son '+ milla/0.62137 +' kilometros');
