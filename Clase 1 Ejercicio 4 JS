@@ -1,0 +1,9 @@
+/* Una persona necesita calcular el área y el perímetro de una  circunferencia.
+Posee el radio de la misma  */
+
+var radio = 0;
+const pi = 3.14;
+var area= pi*(radio*radio);
+var perimetro = 2*(pi*radio);
+radio = parseFloat(prompt('Ingrese radio: '));
+alert('el area es: '+area +' y el perimetro es: '+perimetro);
