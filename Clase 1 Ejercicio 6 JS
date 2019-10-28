@@ -1,0 +1,5 @@
+// Una costurera necesita transformar las medidas que le fueron provistas en pulgadas a centímetros.  
+
+var pulgadas = 0;
+pulgadas = parseInt(prompt('Ingrese pulgadas: '));
+alert(pulgadas +' pulgadas son '+ pulgadas/0.39370 +' centímetros');
