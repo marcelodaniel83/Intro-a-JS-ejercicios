@@ -1,4 +1,4 @@
-*
+/*
    1 Una escuela primaria necesita un sistema en el que se ingrese un número del 1 al 10 y lo convierta
    en un número romano.El sistema debe rechazar cualquier número que no se encuentre en ese intervalo.
    */
