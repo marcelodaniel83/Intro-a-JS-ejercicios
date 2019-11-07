@@ -1,5 +1,0 @@
-// Un científico necesita transformar las temperaturas de grados  Fahrenheit a Celsius. 
-
-var f = 0;
-f = parseInt(prompt('Ingrese grados Farenheit: '));
-alert(f +' grados Farenheit son '+ (f -32 )/1.8 +' grados Celsius');
