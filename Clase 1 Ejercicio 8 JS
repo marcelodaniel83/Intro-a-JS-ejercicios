@@ -1,5 +1,0 @@
-// Un financista necesita transformar una cantidad de pesos a dólares y  euros.
-
-var pesos = 0;
-pesos = parseFloat(prompt('Ingrese cantidad en pesos: '));
-alert(pesos +' pesos son '+ pesos*0.01669+' dólares '+ 'y ' + pesos*0.01506 +' euros ');
